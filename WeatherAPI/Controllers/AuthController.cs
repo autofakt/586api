@@ -11,7 +11,7 @@ using System.Text;
 using System.Threading.Tasks;
 using WeatherAPI.Identity;
 
-//EF as Dependancy Injection = stopped last video at 1:20:11 or 37 min left.
+//EF as Dependancy Injection = stopped last video at 27:33 or 1:51:14 min left.
 
 namespace WeatherAPI.Controllers
 {
